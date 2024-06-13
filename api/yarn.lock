@@ -6625,10 +6625,10 @@ nestjs-console@^7.0.1:
     commander "^8.1.0"
     ora "5.4.1"
 
-nestjs-pino@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/nestjs-pino/-/nestjs-pino-2.5.0.tgz#3390237c8ec6d9a789a9480c045e4b5d39e3281d"
-  integrity sha512-Nb0fsGNQ0Qg/v3lUvxah8IzxKRjRd5fo1/+V2ZBbzciDzi4xjI6YqhwvF0rHQy2IMTAZmmrQNpzMgZk7lNeR4Q==
+nestjs-pino@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/nestjs-pino/-/nestjs-pino-2.6.0.tgz#bb70c87acc325baf265521a8b1f1b7a7b46d22fd"
+  integrity sha512-sudCZ5wTjXf4L2iL1G1eh5PL15S5ADtjaW8bnNlg02ZKB81ySdSa0CJ4gMhB3UlGLWS80JoZVp+R3jeRizoJYA==
 
 netmask@^2.0.1:
   version "2.0.2"
