@@ -47,7 +47,7 @@
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
     "responsive-loader": "^2.3.0",
-    "sass": "^1.49.9",
+    "sass": "^1.79.0",
     "styled-components": "^5.3.3",
     "swiper": "^8.0.6"
   },
