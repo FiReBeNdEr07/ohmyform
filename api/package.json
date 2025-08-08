@@ -53,7 +53,7 @@
     "handlebars": "^4.7.7",
     "hashids": "^2.2.10",
     "html-to-text": "^8.1.0",
-    "inquirer": "^8.2.0",
+    "inquirer": "^10.0.0",
     "ioredis": "^4.28.5",
     "ip-anonymize": "^0.1.0",
     "matomo-tracker": "^2.2.4",
